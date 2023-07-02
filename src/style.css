@@ -35,7 +35,9 @@ li:first-letter {
   max-width: 600px;
   margin: 30px auto;
 }
-
+#icon {
+color: #8DD4CD;
+}
 .weather-app {
   padding: 20px;
   border: 1px solid #dadde1;
@@ -92,3 +94,4 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+
