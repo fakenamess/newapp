@@ -1,9 +1,10 @@
 body {
-  font-family: arial, sans-serif;
+  background-color: #e0bbe4;
+  font-family: "Ysabeau Office", sans-serif;
 }
 
 h1 {
-  color: #878787;
+  color: #7A6AA9;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -20,7 +21,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color: #7A6AA9;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -52,7 +53,7 @@ li:first-letter {
 }
 
 .weather-temperature strong {
-  color: rgb(33, 33, 33);
+  color: #7A6AA9;
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
@@ -65,7 +66,7 @@ li:first-letter {
 }
 
 .weather-temperature .active {
-  color: rgb(33, 33, 33);
+  color: #7A6AA9;
   cursor: default;
 }
 
