@@ -1,5 +1,5 @@
 body {
-  
+   background-color: #8DD4CD;
   font-family: "Ysabeau Office", sans-serif;
 }
 
@@ -22,9 +22,9 @@ li {
   padding: 0;
 
   color: #7A6AA9;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 100;
-  line-height: 26px;
+  line-height: 33px;
 }
 
 li:first-letter {
@@ -62,7 +62,7 @@ li:first-letter {
 
 .weather-temperature .units {
   position: relative;
-  font-size: 24px;
+  font-size: 30px;
   top: -34px;
 }
 
@@ -82,7 +82,7 @@ li:first-letter {
 }
 
 .weather-forecast-date {
-  font-size: 24px;
+  font-size: 30px;
   opacity: 0.5;
 }
 
