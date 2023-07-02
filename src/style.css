@@ -56,6 +56,9 @@ li:first-letter {
   background-color: #9296D4; 
   border-radius: 50%; 
 }
+.btn-primary:hover {
+  background-color: #F171A1; 
+}
 
 .weather-temperature strong {
   color: #7A6AA9;
